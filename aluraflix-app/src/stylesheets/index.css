@@ -1,0 +1,12 @@
+body{
+    background-color: #000000;
+}
+
+.shadowClass {
+    box-shadow: 36px 6px 36px #000000, 36px 6px 36px #000000;
+    border-radius: 0 0 20px 20px;
+}
+
+.borderClass {
+    border-bottom: 5px rgb(93, 119, 235) solid;
+}
